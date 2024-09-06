@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning programming in C#
 - 💞️ I’m looking to collaborate on new projects !
 - 📫 How to reach me : gbfauchon@gmail.com
-- 😄 Pronouns: He
+- 😄 Pronouns: He/him
 - ⚡ Fun fact: Outer Wilds is my favorite video game !
 
 <!---
