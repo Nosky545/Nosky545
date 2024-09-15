@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Nosky545
 - 👀 I’m interested in video games and films
 - 🌱 I’m currently learning programming in C#
-- 💞️ I’m looking to collaborate on new projects !
 - 📫 How to reach me : gbfauchon@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Outer Wilds is my favorite video game !
